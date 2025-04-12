@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  h1 {
+    text-align: center;
+  }
+  form input, form button {
+    margin: 5px 0;
+    padding: 8px;
+    width: 100%;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    background: #f3f3f3;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  button.edit, button.delete {
+    margin-left: 10px;
+  }
+  
